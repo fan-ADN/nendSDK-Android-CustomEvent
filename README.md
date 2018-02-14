@@ -1,16 +1,14 @@
 # nendSDK-Android-AdMob-CustomEvent
 
-`nendの動画リワード`はAdMobメディエーションと正式連携しました。今後は正式連携版をご使用ください。
+nendはGoogle AdMob メディエーション と`動画リワード広告`の正式連携をしました。  
+今後`動画リワード`を利用する際は正式連携版をご利用ください。  
+AdMobメディエーションを使用した実装方法は以下をご参照ください。  
+ * [nendSDK AdMob メディエーション - 導入方法 - Android](https://github.com/fan-ADN/nendSDK-admob-mediation/wiki/Android)
 
-`Rewarded Video of nend` is now an AdMob supported network. To use nend with AdMob please follow the integration guide found on AdMob's page.
-
-**現在、正式連携版のマニュアルを準備中です。  
-準備が出来次第、こちらにマニュアルのURLを記載します。  
-それまでは下記の従来のマニュアルをご覧ください。**
-
-**We are currently preparing an integration guide.  
-As soon as we are ready, we will include the URL of the guide here.  
-Until then, please refer to the following conventional manual.**
+The rewarded-video-ad of nend has been started official mediatationing to Google AdMob.    
+We recommend to use official mediatationing adapter instead of custom event adapter.  
+Please refer to the following link for the implementation using AdMob mediation.  
+ * [nendSDK AdMob Mediation - Integration steps - Android](https://github.com/fan-ADN/nendSDK-admob-mediation/wiki/Android_en)
 
 ==================
 ![ロゴ](https://github.com/fan-ADN/nendSDK-Android/blob/master/Sample/app/src/main/res/drawable/nend_logo.png)
